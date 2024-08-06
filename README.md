@@ -27,4 +27,4 @@ Welcome to the Rollercoaster Ticket Pricing project! This Python script calculat
 To run the script, make sure you have Python installed on your machine. Save the script as `rollercoaster_ticket_pricing.py` and execute it using the following command:
 
 ```bash
-python rollercoaster_ticket_pricing.py
+https://github.com/saif-islam123/rollercoaster-ticket-pricing
